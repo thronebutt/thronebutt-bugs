@@ -1,2 +1,3 @@
 # thronebutt-bugs
-Bugs for Thronebutt.com
+
+Report bugs for Thronebutt.com here.
